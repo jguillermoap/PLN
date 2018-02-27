@@ -1,0 +1,43 @@
+
+NLU - natural language understanding
+	sst - speach to text
+	tts - text to speach
+
+
+NLP
+sentiment analysis - analisis de textos clasificando si se habla bien o mal de un tema/marca (Trump).
+
+	- los clasificadores
+
+NOTA: existen APIs de proveedores (google, microsoft, ibm, amazon)
+
+
+supervisado - clasificacion de textos
+no supervisado - (clustering) aplicado al data mining -> dataset agrupado en bolsas formando un cluster
+
+
+
+· extracción de informacion: leer miles de documentos y pasarlos a base de datos convirtiendolos en campos. Puede valer para hacer negocio. Bastante útil.
+
+
+Concepto vader. API de traduccion de google
+
+· Clasificacion de textos orientado a sentiment analysis
+
+
+· IDEA: recursos humanos y felicidad/motivacion del empleado en su empresa en base a su correo.
+
+· Asistentes virtuales
+
+
+
+
+
+
+http://t-redactyl.io/blog/2017/04/using-vader-to-handle-sentiment-analysis-with-social-media-text.html
+
+https://www.ibm.com/support/knowledgecenter/es/SSEPGG_9.7.0/com.ibm.im.score.doc/c_introducing_im_scoring.html
+
+http://scikit-learn.org/stable/auto_examples/text/document_clustering.html
+
+· chat rudimentariocon NLTK
